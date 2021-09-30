@@ -6,4 +6,9 @@ Year/school: LSA/Mathematics
 
 Fun Fact: 
 
-Hey! I'm Sukh (Sook), and a fun fact about me is that I make electronic music and am a serious audiophile!
+Hey! I'm Sukh (Sook), and a fun fact about me is that I make electronic music and is am a serious audiophile! 
+Additionally, I work for an applied analytics company that is putting together a SaaS platform that
+quantifies government risk for the private sector. I work on Go-To-Market-Strategy and I love listening 
+to the technical conversations, but I don't know enough about DS to understand what is happening. 
+I hope MDST gives me the baseline technical background to engage with, and contribute to the tecnhical conversations
+on a fundamental level!
